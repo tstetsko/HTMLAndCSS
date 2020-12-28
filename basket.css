@@ -2,6 +2,7 @@ body{
     background-color: lightskyblue;
     text-align: center;
 }
+
 main{
     width: 100%;
     padding: 20px;
@@ -30,3 +31,4 @@ main{
     background: salmon;
     transform: rotate(360deg);
 }
+
