@@ -50,6 +50,8 @@ html, body{
       animation-fill-mode: both;
       /* animation-delay: 2s; */
       animation-iteration-count: infinite;
+      animation-timing-function: cubic-bezier(0, 0.77, 1, .28);
+      /* https://cubic-bezier.com/#.17,.67,.83,.67 */
 
   }
   .luigi{
