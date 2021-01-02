@@ -46,7 +46,7 @@ html, body{
       top: -40px;
       left: 0px;
       animation: drive 3s both infinite linear,
-                jump 0.3s 1.2s ease;
+                jump 0.3s 1.2s  ease;
             
       /* animation-delay: 2s; */
       /* animation-timing-function: cubic-bezier(0, 0.77, 1, .28); */
